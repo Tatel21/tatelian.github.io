@@ -9,7 +9,7 @@
     <img src="" alt="Ian Cristopher E. Tatel">
     
     <h2>Ian Cristopher E. Tatel</h2>
-    </div>
+    
     <div id="Personal Information ">
      <h2>Personal Information</h2>
        <p> Sanchez st. Rizal Pakil, laguna </p>
