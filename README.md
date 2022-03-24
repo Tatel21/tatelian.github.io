@@ -24,7 +24,7 @@
        <p>Can Handle Multitasking and under pressure</p>
        <p>Knowledge in Microsoft office especially in MS Word and MS Power Point</p>
 
-     </div>
+   
    
    <div id="Education">
      <h2>Educational Background</h2>
@@ -47,7 +47,7 @@
      </div>
     
    <div id= "Achievements">
-   <h2>Achievements/</h2>
+   <h2>Achievements</h2>
    <p>Best In Attendance(2018-2019</p>
    <p>Honor Student(2019-2020</p>
    <p>Best In Attendance(2019-2020</p>
