@@ -28,9 +28,9 @@
    
    <div id="Education">
      <h2>Educational Background</h2>
-     <p>Cornelio celis Dalena elementary school (2013-2014)</p>
-     <p>Kabulusan Integrated National High School(2014_2018)</p>
-     <p>Balian Integrated National High School(2018_2020)</p>
+     <p>Cornelio celis Dalena elementary school (2009-2014)</p>
+     <p>Kabulusan Integrated National High School(2014-2018)</p>
+     <p>Balian Integrated National High School(2018-2020)</p>
      <p></p>
      </di>
    
