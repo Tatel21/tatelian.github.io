@@ -1,25 +1,22 @@
 # tatelian.github.io
-<!DOCTYPE html>
-<h<!DOCTYPE html>
 <html>
 <head>
-<title>Jhoncarlo Roco</title>
+<title>Ian Cristopher E. Tatel</title>
 </head>
 <body>
 <div id="container">
    <div id="header">
-    <img src="img/itsme.jpg" alt="Jhoncarlo Roco">
+    <img src="" alt="Ian Cristopher E. Tatel">
     
-    <h2>Jhoncarlo Roco</h2>
+    <h2>Ian Cristopher E. Tatel</h2>
     </div>
     <div id="Personal Information ">
      <h2>Personal Information</h2>
-       <p> Tavera Pakil Laguna 20 years old </p>
+       <p> Sanchez st. Rizal Pakil, laguna </p>
        <p> 2nd year Collage Student in LSPU Siniloan campus</p>
        
        
-       </div>
-       <div id ="Career Objectives
+      
           <h2> Carrer Objectives</h2>
           <p>Seeking a challenge career with a progressive organization 
           that provides an opportunity to capitalize my technical skill and abilities in the position applying for </h2>
@@ -32,15 +29,16 @@
    
    <div id="education">
      <h2>Educational Background</h2>
-     <p>Pakil senior high school (2018_2020)</p>
+     <p>Balian Integrated National High School(2018_2020)</p>
+     <p>Balian Integrated National High School(2018_2020)</p>
      <p>Cornelio celis dalena elementary school (2013-2014)</p>
      <p></p>
      </di>
    
    <div id="work">
      <h2>Work Experience</h2>
-     <p>work immersion</p>
-     <p>factory of cake in canlubang, calamba laguna</p>
+     <p>Selling Street Foods in lumban,laguna</p>
+     <p>Waiter at Vista Art's And Cafe</p>
      
    <div id= "personal skill">
      <h2>Personal skill</h2>
@@ -49,13 +47,14 @@
      <p>Ability to work independently or as a part of team</p>
      </div>
     
-   <div id= "Achievements/Responsibility 
+   <div id= "Achievements/Responsibility">
    <h2>Achievement/Responsibility</h2>
-   <p>Top performing student(2018-2019)</p>
-   <p>Top performing student (2019-2020</p>
+   <p>Best In Attendance(2018-2019</p>
+   <p>Honor Student(2019-2020</p>
+   <p>Best In Attendance(2019-2020</p>
    </div>
      <div id="footer">
-     <a href="mailto:jhoncarloroco3@gmail.com ">jhoncarloroco3@gmail.com </a>
-     <a href="tel:+63912318910">+639123189102</a>
+     <a href="mailto: ">iancristopher.tatel@lspu.edu.ph </a>
+     <a href="tel:+639753525190">+639926598108</a>
      </div>
    </div> 
