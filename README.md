@@ -38,14 +38,7 @@
      <h2>Work Experience</h2>
      <p>Selling Street Foods in lumban,laguna</p>
      <p>Waiter at Vista Art's And Cafe</p>
-     
-   <div id= "Personal skill">
-     <h2>Personal skill</h2>
-     <p>Excellent written and verbal communicationskill </p>
-     <p>High organized and efficient</p>
-     <p>Ability to work independently or as a part of team</p>
-     </div>
-    
+
    <div id= "Achievements">
    <h2>Achievements</h2>
    <p>Best In Attendance(2018-2019</p>
